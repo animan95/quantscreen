@@ -3,7 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
-rdkit-pypi
+rdkit
 joblib
 py3Dmol
 pyscf
