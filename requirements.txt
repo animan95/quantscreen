@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+rdkit-pypi
+joblib
+py3Dmol
+pyscf
+
