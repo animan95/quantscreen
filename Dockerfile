@@ -17,7 +17,7 @@ RUN ln -s /usr/bin/python3 /usr/bin/python
 RUN pip install rdkit-pypi
 
 # Install PySCF and other packages
-RUN pip install pyscf streamlit py3Dmol pandas numpy seaborn matplotlib joblib
+RUN pip install pyscf streamlit py3Dmol pandas numpy seaborn matplotlib joblib scikit-learn
 
 # Copy your app
 WORKDIR /app
